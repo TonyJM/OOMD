@@ -63,7 +63,7 @@
 											"top": 295,
 											"width": 110,
 											"height": 13,
-											"text": "Admin"
+											"text": "Student"
 										},
 										{
 											"_type": "LabelView",
@@ -5211,7 +5211,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Admin",
+					"name": "Student",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
@@ -6509,9 +6509,9 @@
 										"$ref": "AAAAAAFwj5pUAcyvUY4="
 									},
 									"font": "Arial;13;0",
-									"left": 104.6181640625,
+									"left": 100.27001953125,
 									"top": 77,
-									"width": 37.84814453125,
+									"width": 37.11181640625,
 									"height": 13,
 									"text": "Admin"
 								},
@@ -6524,7 +6524,7 @@
 									"font": "Arial;13;1",
 									"left": 69,
 									"top": 77,
-									"width": 30.6181640625,
+									"width": 26.27001953125,
 									"height": 13,
 									"text": "class"
 								}
@@ -9903,9 +9903,9 @@
 										"$ref": "AAAAAAFwj7AFht2UxiU="
 									},
 									"font": "Arial;13;0",
-									"left": 176.6181640625,
+									"left": 172.27001953125,
 									"top": 197,
-									"width": 42.9072265625,
+									"width": 37.8291015625,
 									"height": 13,
 									"text": "Course"
 								},
@@ -9918,7 +9918,7 @@
 									"font": "Arial;13;1",
 									"left": 141,
 									"top": 197,
-									"width": 30.6181640625,
+									"width": 26.27001953125,
 									"height": 13,
 									"text": "class"
 								}
